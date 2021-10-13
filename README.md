@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working @ **[GPTC ATTINGAL](https://g.co/kgs/egxoEP)**
+- 🔭 I’m currently studying @ **[GPTC Attingal](https://g.co/kgs/egxoEP)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
