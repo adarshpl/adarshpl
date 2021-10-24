@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **adarshpltvm@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ intrested in crypto currency trading..**
 
 ## 🚀 Languages and Tools:
 
