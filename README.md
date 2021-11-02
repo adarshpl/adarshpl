@@ -8,8 +8,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying @ **[GPTC Attingal](https://g.co/kgs/egxoEP)**
-
+- 🔭 I’m currently working @ **[z link software](https://www.zlinkcorp.com/)**
+ co
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
