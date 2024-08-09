@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working @ **[z link software](https://www.zlinkcorp.com/)**
  co
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **AI software creations.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
